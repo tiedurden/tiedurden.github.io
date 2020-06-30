@@ -6,3 +6,4 @@ Ist ein toller Hecht. Er ist das alter Ego von dem Protagonist aus Fight Club.
 * Unabängig
 * Anti Konsumgesellschaft
 * Working class Leader/Enthusiast
+* Seifenverkäufer
