@@ -17,3 +17,9 @@ Tyler Durdens 8 Regeln für den Fight Club:
 > 6. Regel: Keine Hemden, keine Schuhe.
 > 7. Regel: Die Kämpfe dauern genau solange, wie sie dauern müssen.
 > 8. und letzte Regel: Wer neu ist im Fight Club, muß kämpfen.
+=======
+## Er repräsentiert alles was der Prot. nicht ist:
+* Unabängig
+* Anti Konsumgesellschaft
+* Working class Leader/Enthusiast
+  
