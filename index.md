@@ -1,11 +1,12 @@
 # Tyler Durden
 
-Ist ein toller Hecht. Er ist das alter Ego von dem Protagonist aus Fight Club.
+Ist ein toller Hecht. Er ist das alter Ego von dem Protagonist aus Fight Club
+
 ## Er repräsentiert alles was der Prot. nicht ist:
 * Unabängig
 * Anti Konsumgesellschaft
 * Working class Leader/Enthusiast
-	
+
 Tyler Durdens 8 Regeln für den Fight Club:
 
 > 1. Regel: Ihr verliert kein Wort über den Fight Club.
@@ -15,13 +16,8 @@ Tyler Durdens 8 Regeln für den Fight Club:
 > 5. Regel: Nur ein Kampf auf einmal.
 > 6. Regel: Keine Hemden, keine Schuhe.
 > 7. Regel: Die Kämpfe dauern genau solange, wie sie dauern müssen.
-> 8. und letzte Regel: Wer neu ist im Fight Club, muß kämpfen.	
 
-
-## Er repräsentiert alles was der Prot. nicht ist:
-* Unabängig
-* Anti Konsumgesellschaft
-* Working class Leader/Enthusiast
-	
 
 <img src="https://vignette.wikia.nocookie.net/fightclub/images/d/d3/Tyler-Durden.jpg/revision/latest/scale-to-width-down/180?cb=20140513065629"/>
+
+
